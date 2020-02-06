@@ -1,0 +1,10 @@
+package difficulty_simulation;
+
+public class difficulty_eth {
+	public int newDifficulty(int OldDifficulty, int delta, int numBlocchi, float uncle){
+		int difficulty = 0;
+		
+		
+		return difficulty;
+	}
+}

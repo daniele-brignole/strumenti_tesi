@@ -1,0 +1,10 @@
+package difficulty_simulation;
+
+public class blockchainSim {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
